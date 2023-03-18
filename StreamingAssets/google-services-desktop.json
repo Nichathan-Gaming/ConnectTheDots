@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1049525075314",
+    "project_id": "nichathangaming-firebase-test",
+    "storage_bucket": "nichathangaming-firebase-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049525075314:android:d64c0d1d33ed30530fb1eb",
+        "android_client_info": {
+          "package_name": "com.NichathanGaming.Test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049525075314-v3vgop83mrcrrv9fhb5uvfeu314vpv7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGiPMGF5aOJR4Zo_06eCVGsCYdnYmNyMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049525075314-v3vgop83mrcrrv9fhb5uvfeu314vpv7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
